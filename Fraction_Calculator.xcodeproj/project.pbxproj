@@ -15,6 +15,7 @@
 		B8FEB95220DB54EB0044D8FB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B8FEB95120DB54EB0044D8FB /* main.m */; };
 		B8FEB95C20DB54EB0044D8FB /* Fraction_CalculatorUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B8FEB95B20DB54EB0044D8FB /* Fraction_CalculatorUITests.m */; };
 		B8FEB96820DB5B930044D8FB /* Fraction.m in Sources */ = {isa = PBXBuildFile; fileRef = B8FEB96720DB5B930044D8FB /* Fraction.m */; };
+		B8FEB96B20DB61390044D8FB /* Calculator.m in Sources */ = {isa = PBXBuildFile; fileRef = B8FEB96A20DB61390044D8FB /* Calculator.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		B8FEB95D20DB54EB0044D8FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B8FEB96620DB5A9C0044D8FB /* Fraction.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fraction.h; sourceTree = "<group>"; };
 		B8FEB96720DB5B930044D8FB /* Fraction.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Fraction.m; sourceTree = "<group>"; };
+		B8FEB96920DB60A90044D8FB /* Calculator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Calculator.h; sourceTree = "<group>"; };
+		B8FEB96A20DB61390044D8FB /* Calculator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Calculator.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +98,8 @@
 				B8FEB95120DB54EB0044D8FB /* main.m */,
 				B8FEB96620DB5A9C0044D8FB /* Fraction.h */,
 				B8FEB96720DB5B930044D8FB /* Fraction.m */,
+				B8FEB96920DB60A90044D8FB /* Calculator.h */,
+				B8FEB96A20DB61390044D8FB /* Calculator.m */,
 			);
 			path = Fraction_Calculator;
 			sourceTree = "<group>";
@@ -212,6 +217,7 @@
 				B8FEB95220DB54EB0044D8FB /* main.m in Sources */,
 				B8FEB94420DB54EB0044D8FB /* AppDelegate.m in Sources */,
 				B8FEB96820DB5B930044D8FB /* Fraction.m in Sources */,
+				B8FEB96B20DB61390044D8FB /* Calculator.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
